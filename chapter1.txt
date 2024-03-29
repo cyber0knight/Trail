@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-what's up?
-=======
-It was the spring of hope, it was the winter of despair.
->>>>>>> a641e40e534c6d34a342128025b3198c7f2b7026
