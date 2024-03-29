@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It was age of wisdom, It was age of foolishness.
+=======
+This is Issac mukara
+>>>>>>> a641e40e534c6d34a342128025b3198c7f2b7026

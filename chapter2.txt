@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 it was the best of times, it was the worse of times
+=======
+it was best of time, it was the worst of time.
+>>>>>>> a641e40e534c6d34a342128025b3198c7f2b7026
